@@ -26,8 +26,12 @@ I am a Junior at the University of Notre Dame majoring in Business Analytics and
 
 
 ### Tech Toolbox 🛠️
-- **Languages:** Python, SQL, R
+- **Languages:** Python, SQL, R, Tableau
 
 
 ### Certifications 📜
 - **Tableau Desktop Specialist:** Foundational Skills and Understanding of Tableau Desktop 
+
+
+### Portfolio 📂 
+- [Python Portfolio](https://github.com/jsmall16/Small-Python-Portfolio)
