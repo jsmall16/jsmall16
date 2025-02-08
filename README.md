@@ -38,7 +38,7 @@ I’m a passionate and driven student majoring in **Business Analytics** and min
 
 ## 🛠️ **Technical Skills**  
 - **Programming Languages:** Python, SQL, R  
-- **Tools:** Tableau
+- **Tools:** Tableau Desktop
 - **Concepts:** Data Storytelling, Prompt Engineering
 ---
 
@@ -47,6 +47,11 @@ I’m a passionate and driven student majoring in **Business Analytics** and min
 
 ---
 
-## 📂 **Portfolio**  
-Explore my projects and accomplishments in my GitHub repositories:  
+## 📂 **Current Projects**  
+Explore my current Python portfolio containing projects completed during my Elements of Computing II class.
 - [Python Portfolio](https://github.com/jsmall16/Small-Python-Portfolio)
+
+---
+
+## 🚀 **Goals**
+- I am focused on becoming more proficient in Python by strengthening my understanding of core concepts, data structures, and algorithms. I aim to apply my skills through real-world projects and applications
