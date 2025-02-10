@@ -54,4 +54,5 @@ Explore my current Python portfolio containing projects completed during my Elem
 ---
 
 ## 🚀 **Goals**
-- I am focused on becoming more proficient in Python by strengthening my understanding of core concepts, data structures, and algorithms. I aim to apply my skills through real-world projects and applications
+- I am focused on becoming more proficient in Python by strengthening my understanding of core concepts. I aim to apply my skills through real-world projects and applications.
+- This semester, I intend to improve my skills in object-oriented programming, data storytelling, and app development using Streamlit.
