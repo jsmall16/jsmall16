@@ -10,7 +10,8 @@
 ---
 
 ## 🙋‍♀️ **About Me**  
-I’m a passionate and driven student majoring in **Business Analytics** and minoring in **Innovation & Entrepreneurship**, **Constitutional Studies**, and **Computing & Digital Technologies**. 
+- I’m a passionate and driven student majoring in **Business Analytics** and minoring in **Innovation & Entrepreneurship**, **Constitutional Studies**, and **Computing & Digital Technologies**
+- I love coffee, Taylor Swift, and reading!
 
 ---
 
