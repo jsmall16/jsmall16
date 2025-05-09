@@ -40,7 +40,7 @@
 ## 🛠️ **Technical Skills**  
 - **Programming Languages:** Python, SQL, R  
 - **Tools:** Tableau Desktop
-- **Concepts:** Data Storytelling, Prompt Engineering
+- **Concepts:** Data Storytelling, Prompt Engineering, Interactive Web Development
 ---
 
 ## 🏆 **Certifications**  
@@ -51,9 +51,13 @@
 ## 📂 **Current Projects**  
 Explore my current Python portfolio containing projects completed during my Elements of Computing II class.
 - [Python Portfolio](https://github.com/jsmall16/Small-Python-Portfolio)
+  - [Penguins Project](https://github.com/jsmall16/Small-Python-Portfolio/tree/main/basic%20streamlit%20app)
+  - [Tidy Data Olympics Project](https://github.com/jsmall16/Small-Python-Portfolio/tree/main/TidyData-Project)
+  - [NER Taylor Swift Streamlit App](https://github.com/jsmall16/Small-Python-Portfolio/tree/main/NERStreamlitApp)
+  - [City Sips Streamlit App](https://github.com/jsmall16/Small-Python-Portfolio/tree/main/StreamlitAppFinal) 
 
 ---
 
 ## 🚀 **Goals**
 - I am focused on becoming more proficient in Python by strengthening my understanding of core concepts. I aim to apply my skills through real-world projects and applications.
-- This semester, I intend to improve my skills in object-oriented programming, data storytelling, and app development using Streamlit.
+- This semester, I intend to improve my skills in machine learning, data storytelling, and app development using Streamlit.
