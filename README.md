@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jordyn Small!
 
-✏️ **Junior at the University of Notre Dame**  
+✏️ **Senior at the University of Notre Dame**  
 
 📍 **From:** New Jersey  
 📧 **Email:** [jsmall5@nd.edu](mailto:jsmall5@nd.edu)  
